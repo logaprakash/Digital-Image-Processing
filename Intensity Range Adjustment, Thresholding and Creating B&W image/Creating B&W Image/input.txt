@@ -1,0 +1,6 @@
+A = zeros(250,250);
+
+row1 = 70 ;
+row2 = 130 ;
+column1 = 60;
+column2 = 170;
